@@ -1,6 +1,9 @@
 export default {
   pages: [
-    'pages/index/index'
+    'pages/index/index',
+    'pages/brewing/brewing-param_record',
+    //'pages/brewing/brewing',
+    //'pages/brewing/new',
   ],
   window: {
     backgroundTextStyle: 'light',
