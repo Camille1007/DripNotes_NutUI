@@ -1,6 +1,5 @@
 <template>
   <view class="param-record-page">
-    <!-- 表单容器 -->
     <nut-form>
       <!-- 咖啡豆信息模块 -->
       <nut-cell-group title="咖啡豆信息">
